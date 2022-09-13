@@ -10,7 +10,6 @@
 - 💚 &nbsp; Conforme eu fui adquirindo experiência na área, descobri que todo o potencial que a programação tinha na época, e tem hoje, após algun anos, revivi essa paixão dentro de mim após ter contato novamente com a programação e percebi que a mesma poderia mudar minha vida.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo a stack JavaScript (Node & React) mais focado para o back-end. E apesar de gostar mais do back-end também tenho algumas competências no front-end (ainda estou estudando um pouco do front-end).
 - ⚽ &nbsp; Sou apaixonado por futebol, gosto principalmente de assistir e de jogar para distrair a mente.
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
