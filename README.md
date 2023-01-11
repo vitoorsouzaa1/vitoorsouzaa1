@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Vitor, um desenvolvedor front apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Vitor, um desenvolvedor front-end apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/vitor-souza-827938192"><img src="https://img.shields.io/badge/-Vitor%20Souza-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vitor.souza407@yahoo.com.br"><img src="https://img.shields.io/badge/-vitor.souza407@yahoo.com.br-D14836?style=flat-square&logo=Yahoo&logoColor=white"/></a>
