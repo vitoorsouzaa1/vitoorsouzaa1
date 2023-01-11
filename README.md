@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Vitor, um desenvolvedor back-end apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Vitor, um desenvolvedor front apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/vitor-souza-827938192"><img src="https://img.shields.io/badge/-Vitor%20Souza-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vitor.souza407@yahoo.com.br"><img src="https://img.shields.io/badge/-vitor.souza407@yahoo.com.br-D14836?style=flat-square&logo=Yahoo&logoColor=white"/></a>
@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 13 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava DragonBall. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código, e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida, eu queria ser um programador.
 - 💚 &nbsp; Conforme eu fui adquirindo experiência na área, descobri que todo o potencial que a programação tinha na época, e tem hoje, após algun anos, revivi essa paixão dentro de mim após ter contato novamente com a programação e percebi que a mesma poderia mudar minha vida.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo a stack JavaScript (Node & React) mais focado para o back-end. E apesar de gostar mais do back-end também tenho algumas competências no front-end (ainda estou estudando um pouco do front-end).
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo a stack JavaScript (Node & React) mais focado para o front-end.
 - ⚽ &nbsp; Sou apaixonado por futebol, gosto principalmente de assistir e de jogar para distrair a mente.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
