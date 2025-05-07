@@ -8,7 +8,7 @@
 
 Tive meu primeiro contato com linhas de códigos aos 13 anos, fazendo jogos para me divertir com meus amigos, desde então sempre me dediquei a tentar aprender mais, porém, devido a circunstâncias da vida, tive que pausar meu sonho de programar para ajudar minha família, porém,agora, com esses problemas já resolvidos, resolvi reacender essa paixão e tenho me divertido desde então.
 
-- 🌱 Atualmente estou aprendendo: ReactJS, NextJS, SASS, TailwindCSS, TypeScript, JavaScript, CSS3, HTML5 e NodeJS.
+- 🌱 Atualmente estou aprendendo: ReactJS, NextJS, SASS, TailwindCSS, TypeScript, JavaScript ,CSS3, HTML5.
 - 🎯 Objetivo: Primeiro emprego como Dev Front-end. 💼
 - 🎓 Formação: Ensino Médio Completo.
   **Atualmente Cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.**
@@ -39,6 +39,9 @@ Tive meu primeiro contato com linhas de códigos aos 13 anos, fazendo jogos para
 - [Club Clothing](https://github.com/vitoorsouzaa1/club-clothing-frontend)
   - Projeto de um E-Commerce de roupas e calçados, feito em ReactJS, Redux, Typescript, styled-components, e usando Firebase como banco de dados.
   - Testes feitos com Jest, gerenciamento de compras, manipulação do carrinho de compras, metodos para pagamento e autenticação de login.
+- [FinanceBoard](https://github.com/vitoorsouzaa1/react-typescript-dashboard)
+  - Projeto de um dashboard de Finanças, feito em ReactJS, Redux, Typescript, styled-components, e usando arquivos locais para simular um banco de dados.
+  - Sistema de login, troca de temas (Claro/Escuro), adição e subtração de despesas, totalmente responsivo.
 
 ---
 
