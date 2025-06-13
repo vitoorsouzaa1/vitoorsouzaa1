@@ -42,7 +42,9 @@ Tive meu primeiro contato com linhas de códigos aos 13 anos, fazendo jogos para
 - [FinanceBoard](https://github.com/vitoorsouzaa1/react-typescript-dashboard)
   - Projeto de um dashboard de Finanças, feito em ReactJS, Redux, Typescript, styled-components, e usando arquivos locais para simular um banco de dados.
   - Sistema de login, troca de temas (Claro/Escuro), adição e subtração de despesas, totalmente responsivo.
-
+- [Doutor Agenda](https://github.com/vitoorsouzaa1/doutor-agenda)
+  - Projeto de um SaaS para clínica, feito em NextJS, Typescript, shadcn, e usando neondb com banco de dados.
+  - Sistema de login, sistema de gestão de clínica, médico, pacientes e agendamentos, adição e subtração de todos os sistemas listados, controle financeiro das clínicas, relatórios e análises.
 ---
 
 _Feito com ❤️ por Vitor Souza_.
