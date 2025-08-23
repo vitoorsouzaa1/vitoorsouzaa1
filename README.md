@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Tive meu primeiro contato com linhas de códigos aos 13 anos, fazendo jogos para me divertir com meus amigos, desde então sempre me dediquei a tentar aprender mais, porém, devido à algumas circunstâncias da vida, tive que pausar meu sonho de programar para ajudar minha família, agora, com esses problemas já resolvidos, resolvi reacender essa paixão e tenho me divertido desde então.
+Tive meu primeiro contato com linhas de códigos aos 13 anos, fazendo jogos para me divertir com meus amigos, desde então sempre me dediquei a tentar aprender mais, estudar e me comprometer com tudo que eu faço, quero ter minha primeira chance e mostrar que estou capacitado a atender as expectativas.
 
 - 🌱 Atualmente estou aprendendo: ReactJS, NextJS, SASS, TailwindCSS, TypeScript, JavaScript ,CSS3, HTML5.
 - 🎯 Objetivo: Primeiro emprego como Dev Front-end. 💼
@@ -39,11 +39,12 @@ Tive meu primeiro contato com linhas de códigos aos 13 anos, fazendo jogos para
 - [Club Clothing](https://github.com/vitoorsouzaa1/club-clothing-frontend)
   - Projeto de um E-Commerce de roupas e calçados, feito em ReactJS, Redux, Typescript, styled-components, e usando Firebase como banco de dados.
   - Testes feitos com Jest, gerenciamento de compras, manipulação do carrinho de compras, metodos para pagamento e autenticação de login.
-- [FinanceBoard](https://github.com/vitoorsouzaa1/react-typescript-dashboard)
-  - Projeto de um dashboard de Finanças, feito em ReactJS, Redux, Typescript, styled-components, e usando arquivos locais para simular um banco de dados.
-  - Sistema de login, troca de temas (Claro/Escuro), adição e subtração de despesas, totalmente responsivo.
+- [SmartHost]([https://github.com/vitoorsouzaa1/react-typescript-dashboard](https://github.com/vitoorsouzaa1/smart_host))
+  - Projeto de uma plataforma para alugueis de temporada.
+  - Feito em Next.js, Typescript, shadcn como componentizador, usando prisma como ORM e neondb com PostgreSQL como banco de dados.
+  - Sistema de login, sistema de gestão para hosts e guests, sistema de datas para aluguel dos apartamentos/casas, metodos de pagamentos via Stripe.
 - [Doutor Agenda](https://github.com/vitoorsouzaa1/doutor-agenda)
-  - Projeto de um SaaS para clínica, feito em NextJS, Typescript, shadcn, e usando neondb com banco de dados.
+  - Projeto de um SaaS para clínicas, feito em NextJS, Typescript, shadcn, e usando neondb com banco de dados.
   - Sistema de login, sistema de gestão de clínica, médico, pacientes e agendamentos, adição e subtração de todos os sistemas listados, controle financeiro das clínicas, relatórios e análises.
 ---
 
