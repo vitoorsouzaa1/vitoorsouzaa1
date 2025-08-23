@@ -8,7 +8,7 @@
 
 Tive meu primeiro contato com linhas de códigos aos 13 anos, fazendo jogos para me divertir com meus amigos, desde então sempre me dediquei a tentar aprender mais, estudar e me comprometer com tudo que eu faço, quero ter minha primeira chance e mostrar que estou capacitado a atender as expectativas.
 
-- 🌱 Atualmente estou aprendendo: ReactJS, NextJS, SASS, TailwindCSS, TypeScript, JavaScript ,CSS3, HTML5.
+- 🌱 Atualmente estou estudando: ReactJS, NextJS, SASS, TailwindCSS, TypeScript, JavaScript ,CSS3, HTML5.
 - 🎯 Objetivo: Primeiro emprego como Dev Front-end. 💼
 - 🎓 Formação: Ensino Médio Completo.
   **Atualmente Cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.**
