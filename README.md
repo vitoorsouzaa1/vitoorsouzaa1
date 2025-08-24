@@ -39,7 +39,7 @@ Tive meu primeiro contato com linhas de códigos aos 13 anos, fazendo jogos para
 - [Club Clothing](https://github.com/vitoorsouzaa1/club-clothing-frontend)
   - Projeto de um E-Commerce de roupas e calçados, feito em ReactJS, Redux, Typescript, styled-components, e usando Firebase como banco de dados.
   - Testes feitos com Jest, gerenciamento de compras, manipulação do carrinho de compras, metodos para pagamento e autenticação de login.
-- [SmartHost]([https://github.com/vitoorsouzaa1/react-typescript-dashboard](https://github.com/vitoorsouzaa1/smart_host))
+- [SmartHost]([https://github.com/vitoorsouzaa1/smart_host])
   - Projeto de uma plataforma para alugueis de temporada.
   - Feito em Next.js, Typescript, shadcn como componentizador, usando prisma como ORM e neondb com PostgreSQL como banco de dados.
   - Sistema de login, sistema de gestão para hosts e guests, sistema de datas para aluguel dos apartamentos/casas, metodos de pagamentos via Stripe.
